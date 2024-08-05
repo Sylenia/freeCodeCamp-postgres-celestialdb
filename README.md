@@ -1,1 +1,1 @@
-FCC Building a Celestial Bodies DataBase with psql
+FCC Building DataBase with psql Challenges
